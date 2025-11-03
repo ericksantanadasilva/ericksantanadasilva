@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Erick Sant'Ana da Silva, tenho 26 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no FLAMA, com o curso técnico em eletrônica, e sou formado em análises e desenvolvimento de sistemas pela universidade UNOPAR. Sou apaixonado por tecnologia e novos desafios.
+Me chamo Erick Sant'Ana da Silva, sou natural do Rio de Janeiro. Concluí o ensino médio no FLAMA, com o curso técnico em eletrônica, e sou formado em análises e desenvolvimento de sistemas pela universidade UNOPAR. Sou apaixonado por tecnologia e novos desafios.
 
 <p align="left">
     <a href="https://github.com/ericksantanadasilva?tab=repositories&sort=stargazers">
