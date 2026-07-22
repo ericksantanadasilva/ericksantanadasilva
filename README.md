@@ -38,4 +38,4 @@ Plataforma SaaS para gestão acadêmica de cursinhos.
 
 [LinkedIn](https://www.linkedin.com/in/eriicksantana/)
 
-[Email](ericksans199@outlook.com)
+ericksans199@outlook.com
