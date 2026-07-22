@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o Erick 👋 
 
-Desenvolvedor Full Stack construindo um SaaS para gestão acadêmica de cursinhos pré-vestibulares.
+Desenvolvedor Full Stack atualmente desenvolvendo um SaaS para gestão acadêmica de cursinhos pré-vestibulares.
 
 </div>
 
