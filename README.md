@@ -9,7 +9,7 @@ Desenvolvedor Full Stack atualmente desenvolvendo um SaaS para gestão acadêmic
 ### 💻 Sobre mim
 - 🚀 Atualmente desenvolvendo o PortalAluno, um sistema SaaS multi-tenant para gestão acadêmica.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 💡 Trabalho principalmente com React, Next.js, Node.js e TypeScript.
+- 💡 Stack principal: React, Next.js, Node.js, TypeScript e PostgreSQL.
 - ⚡ Também tenho experiência com automação utilizando Google Apps Script e Google Sheets.
 
 ### 🔗 Links
