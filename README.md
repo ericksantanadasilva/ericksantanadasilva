@@ -2,19 +2,18 @@
 
 ### Olá! Eu sou o Erick 👋 
 
-Desenvolvedor Full Stack atualmente desenvolvendo um SaaS para gestão acadêmica de cursinhos pré-vestibulares.
+Desenvolvedor Full Stack construindo soluções para o setor educacional.
 
 </div>
 
 ### 💻 Sobre mim
-- 🚀 Atualmente desenvolvendo o PortalAluno, um sistema SaaS multi-tenant para gestão acadêmica.
+- 🚀 Atualmente desenvolvendo o PortalAluno, um sistema SaaS multi-tenant para gestão acadêmica de cursinhos pré-vestibulares.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💡 Stack principal: React, Next.js, Node.js, TypeScript e PostgreSQL.
 - ⚡ Também tenho experiência com automação utilizando Google Apps Script e Google Sheets.
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriicksantana/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eriick.santana_/)
 
 ### 🛠 Tecnologias
 <div style="display: inline_block">
@@ -25,3 +24,11 @@ Desenvolvedor Full Stack atualmente desenvolvendo um SaaS para gestão acadêmic
   <img align="center" alt="NextJS" height="30" width="40" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 </div>
+
+### 📌 Projeto Principal
+
+### PortalAluno
+
+Plataforma SaaS para gestão acadêmica de cursinhos pré-vestibulares.
+
+**Status:** 🚧 Em desenvolvimento.
